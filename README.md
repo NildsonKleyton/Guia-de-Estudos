@@ -3,14 +3,15 @@ Este documento é responsável por apresentar um guia de estudos com links para 
 
 ### Ordem dos estudos:
 
-- Java (Orientação a Objetos);
-- Modo debug no eclipse
-- HTML, CSS e JavaScript;
-- Git
-- Curso de JSF:  
+- [ ] Java (Orientação a Objetos).
+- [x] Modo debug no eclipse.
+- [x] HTML, CSS. 
+- [ ] JavaScript.
+- [x] Git
+- [ ] Curso de JSF:  
   Obs.: Showcase do PrimeFaces(exemplos de funcionamento dos componentes):
-- Curso de SQL com PostgreSQL:
-- Curso de Spring Framework:
+- [ ] Curso de SQL com PostgreSQL:
+- [ ] Curso de Spring Framework:
 
 ## Conhecimentos Básicos Fundamentais
 
