@@ -6,7 +6,7 @@ Este documento é responsável por apresentar um guia de estudos com links para 
 - [x] Java (Orientação a Objetos).
 - [x] Modo debug no eclipse.
 - [x] HTML, CSS. 
-  - [x] RocketSeet
+  - [x] RocketSeat
   - [ ] freeCodeCamp
 - [ ] JavaScript.
 - [x] Git
@@ -24,7 +24,7 @@ Este documento é responsável por apresentar um guia de estudos com links para 
 Muito importante ter noção de como depurar código e aprender as famosas opções das teclas F5, F6, F7 e F8. OBS.: Essa apostila de Java da Caelum é muito boa e pode servir para consulta, mesmo não sendo a mais atualizada;
 
 - HTML, CSS e JavaScript;
-  - [RocketSeet](https://www.rocketseat.com.br/discover)
+  - [RocketSeat](https://www.rocketseat.com.br/discover)
   - [freeCodeCamp](https://www.freecodecamp.org/learn)
   
   Necessário entender o básico do funcionamento de uma página WEB.
