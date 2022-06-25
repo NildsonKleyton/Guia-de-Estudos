@@ -6,6 +6,8 @@ Este documento é responsável por apresentar um guia de estudos com links para 
 - [x] Java (Orientação a Objetos).
 - [x] Modo debug no eclipse.
 - [x] HTML, CSS. 
+  - [x] RocketSeet
+  - [ ] freeCodeCamp
 - [ ] JavaScript.
 - [x] Git
 - [ ] Curso de JSF:  
@@ -21,11 +23,15 @@ Este documento é responsável por apresentar um guia de estudos com links para 
 - [Modo debug no eclipse ](https://www.caelum.com.br/apostila-java-orientacao-objetos/apendice-debugging#o-que-e-debugar).
 Muito importante ter noção de como depurar código e aprender as famosas opções das teclas F5, F6, F7 e F8. OBS.: Essa apostila de Java da Caelum é muito boa e pode servir para consulta, mesmo não sendo a mais atualizada;
 
-- [HTML, CSS e JavaScript;](https://www.rocketseat.com.br/discover)
-Necessário entender o básico do funcionamento de uma página WEB.
+- HTML, CSS e JavaScript;
+  - [RocketSeet](https://www.rocketseat.com.br/discover)
+  - [freeCodeCamp](https://www.freecodecamp.org/learn)
+  
+  Necessário entender o básico do funcionamento de uma página WEB.
 
-- [Git](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9).
-Necessário entender o básico do funcionamento do Git (Commit, Push, Pull, Branch).
+- [Git](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9)
+
+  Básico do funcionamento do Git (Commit, Push, Pull, Branch).
 
 - SQL (PostgreSQL);
 [Curso de PostgreSQL - Bancos de Dados (Bóson Treinamentos)](https://www.youtube.com/watch?v=Z_SPrzlT4Fc&list=PLucm8g_ezqNoAkYKXN_zWupyH6hQCAwxY)
