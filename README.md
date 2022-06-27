@@ -11,6 +11,10 @@ Este documento é responsável por apresentar um guia de estudos com links para 
 - [ ] JavaScript.
 - [x] Git
 - [ ] Curso de JSF:  
+  - [ ] Primeiros passos com JSF e Primefaces (Luiz Alberto
+  - [ ] Curso de JSF e PrimeFaces (Alex - JDev Treinamento on-line)
+  - [ ] Programação Web com JSF (Professor Danilo)
+  - [ ] Primefaces Showcase V8
   Obs.: Showcase do PrimeFaces(exemplos de funcionamento dos componentes):
 - [ ] Curso de SQL com PostgreSQL:
 - [ ] Curso de Spring Framework:
