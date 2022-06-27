@@ -3,7 +3,7 @@ Este documento é responsável por apresentar um guia de estudos com links para 
 
 ### Ordem dos estudos:
 
-- [x] Java (Orientação a Objetos).
+- [ ] Java (Orientação a Objetos).
 - [x] Modo debug no eclipse.
 - [x] HTML, CSS. 
   - [x] RocketSeat
