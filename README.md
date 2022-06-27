@@ -38,11 +38,15 @@ Muito importante ter noção de como depurar código e aprender as famosas opç�
 
 ## Conhecimentos mais Avançados
 ### JSF e Primefaces;
+
 - [Primeiros passos com JSF e Primefaces (Luiz Alberto)](https://www.youtube.com/watch?v=xdbdfUmPd8c&list=PLnOrFdw5rkTyj3km618OLh5nCatSELRFh) - Curso
 Curso simples e bastante objetivo.
+- [Curso de JSF e PrimeFaces (Alex - JDev Treinamento on-line)](https://www.youtube.com/watch?v=hpzRefxuRWo&list=PLChAibQVs_G_MlgpOx9oQcnpuEqebFDqe&index=1&t=42s) - Curso Treinamento Gratuito em JavaServer Faces
 - [Programação Web com JSF (Professor Danilo)](https://www.youtube.com/watch?v=4jwVZCJ7L4U&list=PLi-pH2tKqA2BuyViCIt6QR9Zd9nx8blGf) - Curso
 Até a aula 4 para noções básicas.
 - [Primefaces Showcase V8](https://www.primefaces.org/showcase-v8/).
+
+
 
 ### Spring Framework;
 - [Spring & Hibernate for Beginners (includes Spring Boot)](https://www.udemy.com/course/spring-hibernate-tutorial/) - **Curso Pago**
