@@ -2,7 +2,7 @@
 Este documento é responsável por apresentar um guia de estudos com links para cursos e artigos.
 
 ### Ordem dos estudos:
-
+#### Conhecimentos Básicos Fundamentais
 - [ ] Java (Orientação a Objetos).
 - [x] Modo debug no eclipse.
 - [x] HTML, CSS. 
@@ -10,14 +10,29 @@ Este documento é responsável por apresentar um guia de estudos com links para 
   - [ ] freeCodeCamp
 - [ ] JavaScript.
 - [x] Git
-- [ ] Curso de JSF:  
-  - [ ] Primeiros passos com JSF e Primefaces (Luiz Alberto
+- [ ] Curso de SQL com PostgreSQL:
+- [ ] Curso de Spring Framework:
+
+#### Conhecimentos mais Avançados
+- [ ] Curso de JSF e Primefaces:  
+  - [x] Primeiros passos com JSF e Primefaces (Luiz Alberto
   - [ ] Curso de JSF e PrimeFaces (Alex - JDev Treinamento on-line)
   - [ ] Programação Web com JSF (Professor Danilo)
   - [ ] Primefaces Showcase V8
   Obs.: Showcase do PrimeFaces(exemplos de funcionamento dos componentes):
-- [ ] Curso de SQL com PostgreSQL:
-- [ ] Curso de Spring Framework:
+- [ ] Spring Framework:
+  - [ ] Spring & Hibernate for Beginners (includes Spring Boot)
+  - [ ] Curso Spring - Aprendendo Spring Framework
+  - [ ] Spring Boot Essentials 2 (Devdojo)
+  - [ ] Criando um blog com Spring Boot e deploy na AWS Elastic Beanstalk (Michelli Brito)
+- [ ] Hibernate e JPA:
+  - [ ] JPA com Hibernate (Descompila)
+  - [ ] JPA – Relacionamentos OneToOne, ManyToOne, OneToMany, ManyToMany (Tidicas)
+  - [ ] JPA and Enums via @Enumerated (Apache)
+  - [ ] JPA e Hibernate: Acessando dados em aplicações Java (Devmedia)
+  - [ ] Hibernate Mapping: Mapeando Relacionamentos entre Entidades (Devmedia)
+  - [ ] Spring & Hibernate for Beginners (includes Spring Boot)
+
 
 ## Conhecimentos Básicos Fundamentais
 
