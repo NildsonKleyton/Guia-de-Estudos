@@ -22,7 +22,7 @@ Este documento é responsável por apresentar um guia de estudos com links para 
   Obs.: Showcase do PrimeFaces(exemplos de funcionamento dos componentes):
 - [ ] Spring Framework:
   - [ ] Spring & Hibernate for Beginners (includes Spring Boot)
-  - [ ] Curso Spring - Aprendendo Spring Framework
+  - [x] Curso Spring - Aprendendo Spring Framework
   - [ ] Spring Boot Essentials 2 (Devdojo)
   - [ ] Criando um blog com Spring Boot e deploy na AWS Elastic Beanstalk (Michelli Brito)
 - [ ] Hibernate e JPA:
